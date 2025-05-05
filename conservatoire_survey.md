@@ -1,5 +1,7 @@
 # Cartographie conservatoires - Avril 2025
 
+15 réponses au total.
+
 ## 1. Enseigne-t-on la musicologie historique ?
 
 ```mermaid
